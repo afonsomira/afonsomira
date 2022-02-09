@@ -1110,6 +1110,18 @@ input[type="text"] {
   outline: none !important;
 }
 
+.btn-curriculo:hover {
+  background:#fff;
+  color:#FF9000;
+  border:2px solid #000;
+}
+
+.btn-curriculo {
+  background: #FF9000;
+  color: #fff;
+  border: 2px solid #fff;
+}
+
 .btn-primary {
   background: #FF9000;
   color: #fff;
